@@ -1,0 +1,21 @@
+.font-worksan {
+    font-family: "Work Sans", sans-serif;
+    font-size: 24px;
+    margin-left: 40px;
+}
+
+.button {
+    background: linear-gradient(131deg, #7C0F35 0%, #581266 100%);
+    width: 156px;
+    height: 52px;
+    color: aliceblue;
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-pop {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+}
